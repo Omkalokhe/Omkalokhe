@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👨‍💻 About Me<br><br>🔭 I’m currently working on<br><br>Full Stack Applications using Flutter (Frontend) & Spring Boot (Backend)<br><br>Microservices-based architecture projects<br><br>REST API integration & scalable backend systems<br><br>Admin panels & real-time dashboards<br><br>👯 I’m looking to collaborate on<br><br>Flutter mobile applications<br><br>Java Spring Boot backend systems<br><br>Microservices architecture projects<br><br>Open-source full stack projects<br><br>🤝 I’m looking for help with<br><br>Advanced System Design<br><br>Cloud deployment (AWS, Docker, CI/CD)<br><br>Performance optimization in large-scale applications<br><br>🌱 I’m currently learning<br><br>Advanced Microservices Architecture<br><br>Clean Architecture in Flutter<br><br>Design Patterns in Java<br><br>DevOps & Containerization (Docker, Kubernetes)<br><br>💬 Ask me about<br><br>Flutter & Dart Development<br><br>Java & Spring Boot<br><br>REST APIs & Microservices<br><br>MySQL Database Design<br><br>State Management (BLoC, Riverpod, GetX)<br><br>⚡ Fun fact<br><br>I debug faster at night 🌙<br><br>I turn coffee ☕ into scalable applications 🚀<br><br>I enjoy building UI as much as writing backend logic
 
-<!--
-**Omkalokhe/Omkalokhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Omkalokhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Omkalokhe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkalokhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Omkalokhe&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
